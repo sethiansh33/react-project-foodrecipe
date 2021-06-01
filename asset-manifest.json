@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sethiansh33/react-project-foodrecipe/static/css/main.fdf8a849.chunk.css",
+    "main.js": "/sethiansh33/react-project-foodrecipe/static/js/main.9621e3f7.chunk.js",
+    "main.js.map": "/sethiansh33/react-project-foodrecipe/static/js/main.9621e3f7.chunk.js.map",
+    "runtime-main.js": "/sethiansh33/react-project-foodrecipe/static/js/runtime-main.ca4f1a1e.js",
+    "runtime-main.js.map": "/sethiansh33/react-project-foodrecipe/static/js/runtime-main.ca4f1a1e.js.map",
+    "static/js/2.48b3b32d.chunk.js": "/sethiansh33/react-project-foodrecipe/static/js/2.48b3b32d.chunk.js",
+    "static/js/2.48b3b32d.chunk.js.map": "/sethiansh33/react-project-foodrecipe/static/js/2.48b3b32d.chunk.js.map",
+    "index.html": "/sethiansh33/react-project-foodrecipe/index.html",
+    "precache-manifest.b172dc2336ee233e607922214bdd6ee4.js": "/sethiansh33/react-project-foodrecipe/precache-manifest.b172dc2336ee233e607922214bdd6ee4.js",
+    "service-worker.js": "/sethiansh33/react-project-foodrecipe/service-worker.js",
+    "static/css/main.fdf8a849.chunk.css.map": "/sethiansh33/react-project-foodrecipe/static/css/main.fdf8a849.chunk.css.map",
+    "static/js/2.48b3b32d.chunk.js.LICENSE.txt": "/sethiansh33/react-project-foodrecipe/static/js/2.48b3b32d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca4f1a1e.js",
+    "static/js/2.48b3b32d.chunk.js",
+    "static/css/main.fdf8a849.chunk.css",
+    "static/js/main.9621e3f7.chunk.js"
+  ]
+}
